@@ -146,7 +146,7 @@ h2{
 }
 .main-container1{
 	width: 100%;
-	height: 600px;
+	height: 640px;
 	background-image: url("../img/bg1.jpg");
 	background-size: 100%;
 	padding-top: 70px;
@@ -187,7 +187,7 @@ h2{
 .main-container2{
 	background-image: url("../img/bg2.jpg");
 	width: 100h;
-	height: 620px;
+	height: 680px;
 	background-size: 100%;
 	padding-top: 130px;
 }
@@ -219,7 +219,7 @@ h2{
 .container-3{
 	background-color: RGBA(34,32,33,0.6);
 	width: 600px;
-	height: 400px;
+	height: 420px;
 	border-radius: 20px;
 	margin-left: 350px;
 	color: white;
@@ -244,7 +244,7 @@ h2{
 }
 .main-container4{
 	width: 100%;
-	height: 655px;
+	height: 705px;
 	background-image: url("../img/bg4.jpg");
 	background-size: 100%;
 	display: flex;
